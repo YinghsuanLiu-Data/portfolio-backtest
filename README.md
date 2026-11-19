@@ -1,4 +1,5 @@
 # Stock Portfolio Analysis & Backtesting
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/YinghsuanLiu-Data/portfolio-backtest/blob/main/portfolio_analysis.ipynb)
 
 A Python project that compares three investment strategies on **~5 years of real daily market data** (Nov 2021 – Oct 2026), using an honest **train / out-of-sample test** split.
 
