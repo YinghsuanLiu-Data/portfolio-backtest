@@ -66,7 +66,7 @@ portfolio-backtest/
 
 ## How to Run
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/YinghsuanLiu-Data/portfolio-backtest.git
 cd portfolio-backtest
 python -m venv .venv && source .venv/bin/activate   # Windows: .venv\Scripts\activate
 pip install -r requirements.txt
